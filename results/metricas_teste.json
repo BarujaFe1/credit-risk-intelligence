@@ -1,0 +1,21 @@
+{
+  "modelo": "Gradient Boosting",
+  "representacao": "Financeiros + engenharia",
+  "limiar": 0.26,
+  "n_teste": 6000,
+  "n_eventos": 1327,
+  "prevalencia_teste": 0.22116666666666668,
+  "average_precision": 0.5553240699657659,
+  "roc_auc": 0.7803854366447344,
+  "accuracy": 0.7765,
+  "precision": 0.49558638083228246,
+  "recall": 0.5923134890730972,
+  "f1": 0.5396498455200824,
+  "brier": 0.13469566177485404,
+  "selecionados": 600,
+  "eventos_selecionados": 415,
+  "precision_at_10": 0.6916666666666667,
+  "recall_at_10": 0.31273549359457425,
+  "lift_at_10": 3.127354935945742,
+  "taxa_base": 0.22116666666666668
+}
